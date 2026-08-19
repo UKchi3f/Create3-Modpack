@@ -2942,7 +2942,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "c6b399ca61b14669696d7ceddaf4932f1971a587474116aa9af540705a1504cc"
+hash = "c35bc6385cac0836f60c3d009ba67ec1aefbb90fbd7782133f3ecf1e38f07dad"
 metafile = true
 
 [[files]]
@@ -3136,7 +3136,7 @@ hash = "b7db69e2daa1e3fb70cf662e9d44e51a9743ff95925716364d41b7969383e3ce"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c7f69b2de149dd01dd6b7a73b45c19d246d583c691a74c1e3ff0b80909481a9a"
+hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
 
 [[files]]
