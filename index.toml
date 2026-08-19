@@ -2847,7 +2847,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlantis.pw.toml"
-hash = "47f0231b84149c7fbca317cc33e810119b1efb9afc877c8e70706702f21cf79d"
+hash = "d1b863b1d880723e972f3f3309f9661458d34e7215232ed08f12b0f38c47dbfb"
 metafile = true
 
 [[files]]
@@ -2917,7 +2917,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-age-backport.pw.toml"
-hash = "e88ee62deb6896aaa3753f3672d8d09fed1c1bf67b87cee0526954d8c467d705"
+hash = "1f00e16ac1e7ff79413edf21614a24f4a706da112d305ba0e0e56f08cb0e8767"
 metafile = true
 
 [[files]]
@@ -2982,7 +2982,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+hash = "c8655024299e830ccff475492af14e9c6eba4171dc6b5e3faac5402deafbade9"
 metafile = true
 
 [[files]]
@@ -2996,8 +2996,8 @@ hash = "87cc67538d60973cf296adf7cd6f198b2aa2ffb5a2a17e3ce9977c0cd05ddcef"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "21c83a2a79ec084cf15634b178ad86c078e21a08ac1183d4ae2c09200a06e031"
+file = "mods/create-dreams-n-desires.pw.toml"
+hash = "053c8607aa8505044964a04b0b6eeb516ca1b7e058933ccd7b128643f322802c"
 metafile = true
 
 [[files]]
@@ -3041,6 +3041,11 @@ hash = "4744275b4d8f42696051832986adc4b007fcca77dc3a4dda4bb4cd77a946f544"
 metafile = true
 
 [[files]]
+file = "mods/create-gears-n-kinetics.pw.toml"
+hash = "83038d8db7022273db0f0652497e7d662099a804dd8f9f2571f8b976201aaea5"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
@@ -3057,7 +3062,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mixed-casing.pw.toml"
-hash = "9dcc91286d5927be3d8b11022c20775a3aac7669fe47eeda659e9c7a80276a97"
+hash = "6473b4935469b0855d59feaeb2d8e495aae7575bb0f2541daf3ac5bf40664a4d"
 metafile = true
 
 [[files]]
@@ -3082,7 +3087,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
-hash = "7e6cf9b0d48cce70273efbc86f834d138aaec540cecfe693d23389ef78181c6f"
+hash = "2611d89f74d833a05fb00acd8ce2aa8871051abd754e1708d6121206e4fc81d5"
 metafile = true
 
 [[files]]
@@ -3217,11 +3222,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "c8c107f100252cb671a295df94432980e9b5d8c496c0fd196fda428a48932ef2"
-metafile = true
-
-[[files]]
-file = "mods/gears-n-kinetics.pw.toml"
-hash = "ce35bf5e845d46c98e22131cb8e04e147aafe62d3492da97a1a3090621af0281"
 metafile = true
 
 [[files]]

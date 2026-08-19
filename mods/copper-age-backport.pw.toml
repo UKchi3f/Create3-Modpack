@@ -3,11 +3,6 @@ filename = "copperagebackport-neoforge-1.21.1-0.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9892ad37739b62e330274ca51648b00a7ac51114"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7283478
-project-id = 1386823
+url = "https://www.curseforge.com/api/v1/mods/1386823/files/7283478/download"
+hash-format = "sha256"
+hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"

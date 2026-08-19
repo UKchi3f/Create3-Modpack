@@ -1,0 +1,8 @@
+name = "Create Gears n Kinetics"
+filename = "GnKinetics-1.21.1-1.0m.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/1166576/files/7449378/download"
+hash-format = "sha256"
+hash = "9f5e699b59282464aad038b88f89634b080fbee23a1e5dab5b7d954b4f10893b"

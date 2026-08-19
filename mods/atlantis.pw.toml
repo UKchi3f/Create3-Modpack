@@ -3,11 +3,6 @@ filename = "atlantis-8.8.2025-1.21.1-2.3.0-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "72c29bf4aa881a974371d964fb161dfa0aa0441b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6862992
-project-id = 355418
+url = "https://www.curseforge.com/api/v1/mods/355418/files/6862992/download"
+hash-format = "sha256"
+hash = "20aac46242057d5fa3748aaf7d758e64e184fd484ce23d0ed799a2a358ac5b7d"
