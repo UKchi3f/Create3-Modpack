@@ -1,13 +1,13 @@
 name = "Create: Schematic Helper"
-filename = "createschematichelper-neoforge-mc1.21.1-2.0.3.jar"
+filename = "createschematichelper-neoforge-mc1.21.1-2.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c3b3ad40fe80b6f5afe3de5f430a682b48f30e5f"
+hash = "029d026092c05ee895f12ba88700e975ffdc18cc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8198786
+file-id = 8571912
 project-id = 1483578
