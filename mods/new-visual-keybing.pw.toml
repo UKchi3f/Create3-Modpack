@@ -1,6 +1,6 @@
 name = "New Visual Keybing"
 filename = "New Visual Keybing-1.21.1-neoforge-0.6.16.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

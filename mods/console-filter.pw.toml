@@ -1,0 +1,13 @@
+name = "Console Filter"
+filename = "ConsoleFilter-1.21.1-4.0.0-neoforge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "be7e0c69b1cd11e177b1b3c204f2a862bfca0f53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7927378
+project-id = 251985

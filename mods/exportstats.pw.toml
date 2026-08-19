@@ -1,0 +1,13 @@
+name = "Export Stats"
+filename = "exportstats-neoforge-0.1.0+1.21.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "7eb59b72fe8842b889ada784ae323863cf56e570"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6767926
+project-id = 1306453
