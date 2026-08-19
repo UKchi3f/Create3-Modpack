@@ -3,11 +3,6 @@ filename = "neoessentials-1.0.4-mc1.21.1+build.61-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "394921d5a6b5dec3f4b7609b5ba06ce611fd4b3b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8668308
-project-id = 1292165
+url = "https://www.curseforge.com/api/v1/mods/1292165/files/8668308/download"
+hash-format = "sha256"
+hash = "60557f5942985fc538b10d0bd93c8f0065f964e1ee1f38649e3161713e74a506"
