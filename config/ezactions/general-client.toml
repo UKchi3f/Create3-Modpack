@@ -1,0 +1,11 @@
+[general]
+	#Allow moving the player while the radial menu is open (hold hotkey).
+	moveWhileRadialOpen = true
+	#Show the center text label for the currently hovered radial item.
+	showRadialHoverLabel = true
+	#How many lines are visible in the multi-line Command editor box.
+	#This only affects the widget height (scrollbar will appear for longer content).
+	#Range: 1..20, Default: 5
+	# Default: 5
+	# Range: 1 ~ 20
+	commandEditorVisibleLines = 5

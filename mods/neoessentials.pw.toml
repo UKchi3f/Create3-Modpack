@@ -1,0 +1,13 @@
+name = "NeoEssentials"
+filename = "neoessentials-1.0.3-mc1.21.1+build.78.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b953a0aab6c1a0cdcb8dcc89e279ae1942153c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8478599
+project-id = 1292165

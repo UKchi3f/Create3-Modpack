@@ -1,0 +1,13 @@
+name = "New Visual Keybing"
+filename = "New Visual Keybing-1.21.1-neoforge-0.6.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19e9ece8b58df07833896e53624f126365cbc7ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8265438
+project-id = 1539080

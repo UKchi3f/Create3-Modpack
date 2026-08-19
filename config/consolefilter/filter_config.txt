@@ -1,0 +1,2 @@
+# Add the keywords you want to filter separated by commas
+Filters = [fell from a high place, drowned]

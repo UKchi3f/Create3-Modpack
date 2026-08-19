@@ -1,0 +1,13 @@
+name = "Server Chat Sync"
+filename = "ServerChatSync-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f62b7074ec39a3c8a10107a2a9df96d3508a7ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6409593
+project-id = 1240218

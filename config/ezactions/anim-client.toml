@@ -1,0 +1,21 @@
+[animations]
+	#Master switch for all animations.
+	animationsEnabled = true
+	#Animate the menu opening/closing with a radial wipe.
+	animOpenClose = true
+	#Animate hover (slice grow + fill).
+	animHover = true
+	#How much the hovered slice grows at full hover (0.00..0.50).
+	# Default: 0.05
+	# Range: 0.0 ~ 0.5
+	hoverGrowPct = 0.05
+	#Menu open/close animation duration in milliseconds (0..2000).
+	# Default: 125
+	# Range: 0 ~ 2000
+	openCloseMs = 125
+	#Open/close style: WIPE, FADE, NONE
+	openStyle = "WIPE"
+	#Wipe direction: CW or CCW
+	openDirection = "CW"
+	#Hover style: FILL_SCALE, FILL_ONLY, SCALE_ONLY, NONE
+	hoverStyle = "FILL_SCALE"

@@ -1,0 +1,13 @@
+name = "Modern Industrialization"
+filename = "Modern-Industrialization-2.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ad80397df3fb950196f40a7ea716bf90eabda16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8516475
+project-id = 405388

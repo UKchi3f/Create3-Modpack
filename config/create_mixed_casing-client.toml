@@ -1,0 +1,8 @@
+[General]
+	#Enable a contextual wrench model render when in Encasing Mode. (Attach the offhand item on the wrench model if the target block can encased this item)
+	#§4EXPERIMENTAL
+	wrench_model_render = false
+	#Define the block radius of the wrench overlay when in Encasing Mode.
+	# Default: 96
+	# Range: 0 ~ 256
+	wrench_overlay_radius = 96

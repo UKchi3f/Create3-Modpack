@@ -1,0 +1,22 @@
+{
+  "_configVersion": 3,
+  "enabled": true,
+  "startingBalance": 100.0,
+  "currencySymbol": "$",
+  "currencyName": "coins",
+  "currencyNamePlural": "coins",
+  "maxBalance": 999999999.99,
+  "taxPercentage": 0.0,
+  "allowNegativeBalances": false,
+  "balanceFormat": "%.2f",
+  "logTransactions": true,
+  "transactionHistoryLimit": 50,
+  "backupInterval": 300,
+  "autoSaveInterval": 60,
+  "maxTransferAmount": 10000.0,
+  "paytoggleDefault": true,
+  "cacheMaximumSize": 10000,
+  "cacheExpireAfterAccessMinutes": 60,
+  "cleanupInactiveAccounts": true,
+  "inactiveAccountCleanupDays": 30
+}

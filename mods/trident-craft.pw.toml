@@ -1,0 +1,13 @@
+name = "Trident Craft"
+filename = "trident-craft-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5198b0516ce27ab86d732d8ba721de7c16ad6d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7065515
+project-id = 1033127

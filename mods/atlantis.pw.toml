@@ -1,0 +1,13 @@
+name = "Atlantis"
+filename = "atlantis-8.8.2025-1.21.1-2.3.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72c29bf4aa881a974371d964fb161dfa0aa0441b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6862992
+project-id = 355418

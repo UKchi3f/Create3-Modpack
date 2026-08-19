@@ -1,0 +1,4 @@
+#Drop vanilla mob heads with the same rate as wither skeleton skulls.
+#Default Value: true
+#Requires Restart: World
+vanilla_head_drops = true

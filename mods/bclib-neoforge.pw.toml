@@ -1,0 +1,13 @@
+name = "BCLib: New Dawn"
+filename = "bclib-21.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ff66cb67833c62db74efb418413a4344cf2e51a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8519386
+project-id = 1422283

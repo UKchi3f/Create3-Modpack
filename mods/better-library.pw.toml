@@ -1,0 +1,13 @@
+name = "Better Library"
+filename = "better_lib-neoforge-1.21.1-1.0.109.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8437f2f2f8292752af3ccae1bf6526db1ed87b8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7359503
+project-id = 1150683

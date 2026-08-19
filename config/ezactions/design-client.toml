@@ -1,0 +1,42 @@
+#Deadzone radius in pixels where no slice is selected.
+# Default: 18
+# Range: 0 ~ 90
+deadzone = 18
+#Outer radius of the ring in pixels (UI scale 1.0).
+# Default: 72
+# Range: 24 ~ 512
+baseOuterRadius = 72
+#Ring thickness in pixels.
+# Default: 28
+# Range: 6 ~ 256
+ringThickness = 28
+#Minimum item count before scaling down begins.
+# Default: 8
+# Range: 0 ~ 128
+scaleStartThreshold = 8
+#Outer-radius increment per extra item above threshold (pixels).
+# Default: 6
+# Range: 0 ~ 100
+scalePerItem = 6
+#Design style: SOLID, SEGMENTED, OUTLINE, GLASS.
+designStyle = "SOLID"
+#Gap between slices in degrees (0..12).
+# Default: 0
+# Range: 0 ~ 12
+sliceGapDeg = 0
+#ARGB color as int (0xAARRGGBB). Signed 32-bit; negatives are normal for opaque colors.
+# Default: -1442840576
+# Range: > -2147483648
+ringColor = -1442840576
+#Hover ARGB color as int (0xAARRGGBB).
+# Default: -260781
+# Range: > -2147483648
+hoverColor = -260781
+#Border ARGB color as int (0xAARRGGBB).
+# Default: 1728053247
+# Range: > -2147483648
+borderColor = 1728053247
+#Center text ARGB color as int (0xAARRGGBB).
+# Default: -1
+# Range: > -2147483648
+textColor = -1

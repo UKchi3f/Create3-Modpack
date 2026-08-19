@@ -1,0 +1,13 @@
+name = "EZ Actions"
+filename = "ezactions-neoforge-1.21.1-2.0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df2234c19d6a0df369c8954c6282ecf71d60dc77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7967633
+project-id = 1340029

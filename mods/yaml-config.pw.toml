@@ -1,0 +1,13 @@
+name = "YAML Config"
+filename = "yamlconfig-9.0.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b82f333604e8ced6777c752116dbe41b07e3cc4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8125096
+project-id = 1128669

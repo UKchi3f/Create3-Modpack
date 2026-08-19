@@ -1,0 +1,65 @@
+{
+  "_configVersion": 11,
+  "enabled": true,
+  "oauth2": {
+    "clientId": "",
+    "clientSecret": "",
+    "redirectUri": "http://localhost:8080/api/auth/discord/callback",
+    "scopes": "identify guilds.members.read"
+  },
+  "requireLinkedAccount": true,
+  "allowAutoRegistration": true,
+  "defaultRole": "VIEWER",
+  "roleMapping": {
+    "709352979668533341": "ADMIN",
+    "709353103530655857": "MODERATOR",
+    "709353464475680788": "VIEWER"
+  },
+  "roleHierarchy": {
+    "709352979668533341": [
+      "ADMIN",
+      "MODERATOR",
+      "VIEWER"
+    ],
+    "709353103530655857": [
+      "MODERATOR",
+      "VIEWER"
+    ],
+    "709353464475680788": [
+      "VIEWER"
+    ]
+  },
+  "whitelistedRoles": [],
+  "blacklistedUsers": [],
+  "sessionDuration": 86400000,
+  "permissionSync": {
+    "enabled": true,
+    "syncOnJoin": true,
+    "syncMethod": "auto",
+    "permissionMappings": {
+      "709352979668533341": [
+        "neoessentials.*",
+        "neoessentials.dashboard.admin",
+        "neoessentials.dashboard.temppass",
+        "neoessentials.dashboard.status",
+        "neoessentials.discord.syncperms.others"
+      ],
+      "709353103530655857": [
+        "neoessentials.dashboard.temppass",
+        "neoessentials.dashboard.status",
+        "neoessentials.discord.syncperms",
+        "neoessentials.kick",
+        "neoessentials.mute",
+        "neoessentials.ban"
+      ],
+      "709353464475680788": [
+        "neoessentials.dashboard.status",
+        "neoessentials.discord.syncperms",
+        "neoessentials.home",
+        "neoessentials.tpa",
+        "neoessentials.warp"
+      ]
+    },
+    "permissionMappings_common_examples": {}
+  }
+}

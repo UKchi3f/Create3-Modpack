@@ -1,0 +1,13 @@
+name = "Dimension Viewer"
+filename = "dimensionviewer-neoforge-1.21-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7db538e3c63ebe920d2fb37cd81c40d3ece86d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7455955
+project-id = 857799

@@ -1,0 +1,70 @@
+{
+  "_configVersion": 5,
+  "tablist": {
+    "enabled": true,
+    "refreshInterval": 20,
+    "header": [
+      "&6&l{server_name} &8| &e{online}&8/&e{max} &7players",
+      "&6&l{server_name} &8| &eTPS: {tps}",
+      "&6&l{server_name} &8| &e{time}"
+    ],
+    "footer": [
+      "&7TPS: {tps} &8| &7Ping: &a{ping}ms &8| &7{world}",
+      "&7Your coords: &e{x}&7, &e{y}&7, &e{z}",
+      "&7Balance: &a{balance} &8| &7Group: &e{group}"
+    ],
+    "playerFormat": "&f{prefix}&r{player}{suffix}",
+    "hideVanished": true,
+    "showAfkIndicator": true,
+    "afkSuffix": " &7[AFK]",
+    "groupColors": {
+      "admin": "&c",
+      "mod": "&6",
+      "vip": "&b",
+      "default": "&f",
+      "owner": "&#FF4444"
+    },
+    "independentMode": true,
+    "nametagSettings": {
+      "enabled": true
+    },
+    "groups": {
+      "admin": {
+        "header": [
+          "<gradient:FF0000-AA0000>&l⚑ ADMIN PANEL ⚑&r {newline}&8{player} — ping &e{ping}ms &8| tps {tps}",
+          "<gradient:AA0000-FF0000>&l⚑ ADMIN PANEL ⚑&r {newline}&8Coords &e{x}&8, &e{y}&8, &e{z}"
+        ],
+        "footer": "&cAdmin tools: &f/vanish /kick /ban /mute &8| &7{world}"
+      },
+      "mod": {
+        "header": "<gradient:FFA500-FFD700>&l✪ Moderator ✪&r &8| &e{online}&8/&e{max} &7online",
+        "footer": "&6Staff tools: &f/mute /warn /tempban &8| &7{world}"
+      },
+      "vip": {
+        "header": [
+          "<gradient:00CFFF-0080FF>&l★ VIP ★&r &8| &e{online}&8/&e{max} &7players",
+          "<gradient:0080FF-00CFFF>&l★ VIP ★&r &8| &7Welcome back, &b{player}!"
+        ],
+        "footer": "&#00CFFF{player}&7 — &aBalance: &f{balance} &8| &7Ping: &a{ping}ms"
+      }
+    },
+    "players": {},
+    "proxy": {
+      "enabled": false,
+      "serverLabel": "Main",
+      "pollIntervalTicks": 100,
+      "showNetworkPlayers": false,
+      "knownServers": []
+    },
+    "fakePlayers": [],
+    "layout": {
+      "columns": 1,
+      "sortByGroupWeight": true,
+      "groupSections": false,
+      "playersByServer": false,
+      "excludeServers": [],
+      "hiddenServers": [],
+      "maxSlotsPerColumn": 20
+    }
+  }
+}
