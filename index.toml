@@ -3595,10 +3595,6 @@ hash = "ca2cd22d5b145202e463f23b25e3a412c3c2700a8a283056321e2190ac4529ea"
 metafile = true
 
 [[files]]
-file = "release.sh"
-hash = "407d12aa91075a2d8e7606639eca320c9fda4a8ad553bf627eb41386aa429702"
-
-[[files]]
 file = "resourcepacks/VanillaTweaks_r137313_MC26.1.x.zip"
 hash = "6fc63d236325d08b5851d687e3a7797752171962675d0a691471028f2636795d"
 
