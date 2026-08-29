@@ -2797,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f50e9b66d0be7909fd407bf2e0b572ae04a26be595535dd8e1414a990bc890d2"
+hash = "dc538273e409c1c1a4b6aea4cc862468ebe6a29bbc7f09b90b39ea892e5a26b7"
 metafile = true
 
 [[files]]
@@ -2922,7 +2922,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
+hash = "b3de57718d132437264c51deea210fab32271bceb1669f45f7fdabcf25be9579"
 metafile = true
 
 [[files]]
@@ -3012,7 +3012,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1e01471bf55881e9176a9d761da83d6995686fd417fb324d651305235e1cd28f"
+hash = "3081454bb18ab118d7b449a10bf1350d0761ab6892cd88b2ec59b4eb25e375f1"
 metafile = true
 
 [[files]]
@@ -3082,7 +3082,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-schematic-upload.pw.toml"
-hash = "9a5e41a5d917a959df5be035c0d0ae3a208102fe1af4873e8747aab18fb91101"
+hash = "9f6860c5379d0b5bdbce4f1effe0f32bcd72102145951831dab1ec43a5158f23"
 metafile = true
 
 [[files]]
@@ -3141,7 +3141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "6e6e089e208a0f1309fd704a2733e644c86ecce953b4ec31e7d0f1bdef6005d4"
+hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
 metafile = true
 
 [[files]]
@@ -3221,7 +3221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "c8c107f100252cb671a295df94432980e9b5d8c496c0fd196fda428a48932ef2"
+hash = "3e5de7cfbc6b0dd1efadde34b25d1613e58dc29e0fbcc8aee1a9a7daa4f99f1a"
 metafile = true
 
 [[files]]
@@ -3246,7 +3246,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "96c488556336d9ae44a0f17182d4c2bf2dc8414c29f9006d334ff97e6a14ca2a"
+hash = "7d297447424c74ce0b038fdd5c5d50832f95fb8775144137233491530b2d9810"
 metafile = true
 
 [[files]]
@@ -3296,7 +3296,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+hash = "17b5bef818ac8c504958db422aba2f1cc79979da41a71b0ecb793f85accf30df"
 metafile = true
 
 [[files]]
@@ -3336,7 +3336,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0a82d90319b9ba9b5c9fa586a6fca0e2510c2617a9710e6aa738426c1ee87c1e"
+hash = "9897d053032dcfb345567234dd6fb57debb7a52dbe08c06c9bbaef12cdf2e0f2"
 metafile = true
 
 [[files]]
@@ -3431,7 +3431,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8770f5990ed9e37aa0ff2b4bda34dd6036c5ff9ca78d7b5c07d7011471cbca26"
+hash = "25bd3df81f1db5736274c1b7db2bc622f221b2c5dfc7e855ff4ebce345aecc30"
 metafile = true
 
 [[files]]
@@ -3466,7 +3466,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "12b0f46799fdfab546f65fdf4225dbc26ae46fcf0fd2a7a74b5037fdb1d0825b"
+hash = "ef9a468055d108fb54f2834c041107fe478ce8448e495456414d3819a5cde794"
 metafile = true
 
 [[files]]
@@ -3586,13 +3586,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4fdab0d580a8e20ef23d74513e1f5ddbb46e56d379a6fabab9e5d4bbf9846329"
+hash = "175de987d1ed3d633957e9f4da31334cb8019ee68b903d112fef1a25433675d6"
 metafile = true
 
 [[files]]
 file = "mods/yaml-config.pw.toml"
 hash = "ca2cd22d5b145202e463f23b25e3a412c3c2700a8a283056321e2190ac4529ea"
 metafile = true
+
+[[files]]
+file = "release.sh"
+hash = "407d12aa91075a2d8e7606639eca320c9fda4a8ad553bf627eb41386aa429702"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r137313_MC26.1.x.zip"
