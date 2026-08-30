@@ -2952,7 +2952,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "c7b0f9d98e29d0c5054cb5eef83743fb639389e166d279ab12178baeffe7cff7"
+hash = "72c3a27d3fe4ae9a5aa2bba0e473f1413b5eb290383fcf579bcd4fa2138c476d"
 metafile = true
 
 [[files]]
@@ -2987,7 +2987,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dimension-steamworks-realm.pw.toml"
-hash = "a35ac69e0cb46f62284d09043b29624131c817eb1e57a4ce61fd51a71322856a"
+hash = "df47b44b39ee6c06336da42e67d2a28e8f4d470a33626365a411ede9139d4db1"
 metafile = true
 
 [[files]]
@@ -3191,7 +3191,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "748f98aed76975838bd79cb4f5d06eb68aad156394239de5fa70302a02448a5b"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
 
 [[files]]
@@ -3351,7 +3351,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
+hash = "ed6ac1b169f40d6ea67376edac878c6eb842c935f743553016ba3817e67b9830"
 metafile = true
 
 [[files]]
@@ -3506,7 +3506,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "7830a79862c572434679f36377d3bd985a11a6ccb508d8f1911138138e647a4c"
+hash = "55df9531ad6c2db9a814bdb32c0cac04b4bc28d0ed720086d18655a0b4a622ff"
 metafile = true
 
 [[files]]
