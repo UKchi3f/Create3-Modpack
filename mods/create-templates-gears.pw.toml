@@ -1,0 +1,13 @@
+name = "Create: Templates & Gears"
+filename = "create_templates_gears-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "475fa98b305a4f57663cde6112db67a1972aadc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8611616
+project-id = 1317342

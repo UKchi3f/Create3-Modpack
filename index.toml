@@ -3101,6 +3101,11 @@ hash = "5de4795ed5c92e6f4013057bbf3374ea348ed0c8d6e7468a203573aa623c1f70"
 metafile = true
 
 [[files]]
+file = "mods/create-templates-gears.pw.toml"
+hash = "691bf8f23d257c403e1181a28ea788dcfa8a9650615ca01d6686d4580591ed8e"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "5b38747d6ac0f9b216885a6a1d45508354a0ab6077d72510c73b65e147210ca5"
 metafile = true
@@ -3129,10 +3134,6 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
-
-[[files]]
-file = "mods/create_templates_gears-1.2.2.jar"
-hash = "b7db69e2daa1e3fb70cf662e9d44e51a9743ff95925716364d41b7969383e3ce"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
