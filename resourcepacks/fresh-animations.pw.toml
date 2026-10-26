@@ -3,9 +3,9 @@ filename = "FreshAnimations_v1.11.1_1.20+.zip"
 side = "both"
 
 [download]
+url = "https://www.curseforge.com/api/v1/mods/453763/files/9261871/download"
 hash-format = "sha1"
 hash = "eaf28f57dee43c469534953517501a021d28cf21"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
