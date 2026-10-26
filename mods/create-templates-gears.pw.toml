@@ -3,9 +3,9 @@ filename = "create_templates_gears-1.2.2.jar"
 side = "both"
 
 [download]
+url = "https://www.curseforge.com/api/v1/mods/1317342/files/8611616/download"
 hash-format = "sha1"
 hash = "475fa98b305a4f57663cde6112db67a1972aadc5"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
