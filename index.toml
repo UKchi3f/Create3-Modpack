@@ -2862,7 +2862,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-library.pw.toml"
-hash = "213568b614f351221804470e1d3a9f0be6cd4e4c1bbbbc865d9730e36a22efa3"
+hash = "a8ded89ef834cfccc86dff8d9e592ff4c9909b11ee85bbd625aae1495805c483"
 metafile = true
 
 [[files]]
@@ -2942,7 +2942,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "613a7fa70e1f16ef4325fcc01b5e383a1d4676dcf967a85be81a6b6fada5f46e"
+hash = "9da7cf872b876700397574fee1816590658e25e0bb973b821e76ecfbe6dd8c69"
 metafile = true
 
 [[files]]
@@ -3551,7 +3551,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "0cca3b8902efba386b8883fba95f87f336b2dd85a69bc9230cdd8c7eaae999f3"
+hash = "f068a67082b7c2de84eb1acbbc97ff0a6aee1f2646cc36775d1c26fbe060355a"
 metafile = true
 
 [[files]]
