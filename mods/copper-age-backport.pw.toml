@@ -1,8 +1,13 @@
 name = "Copper Age Backport"
-filename = "copperagebackport-neoforge-1.21.1-0.1.4.jar"
+filename = "copperagebackport-neoforge-1.21.1-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://www.curseforge.com/api/v1/mods/1386823/files/7283478/download"
+url = "https://www.curseforge.com/api/v1/mods/1386823/files/8988105/download"
 hash-format = "sha256"
-hash = "1cd0007d427be712d303f5a6f8084c67a2635f02e686e8c9c824cc1dcfdfa272"
+hash = "5f0a707cc3a191f6c56971572211c20bc36537ea07025cc7eef38fcdb63cc223"
+
+[update]
+[update.curseforge]
+file-id = 8988105
+project-id = 1386823

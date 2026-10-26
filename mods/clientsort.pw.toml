@@ -1,13 +1,13 @@
 name = "Client Sort"
-filename = "clientsort-neoforge-3.89.0-beta.2+1.21.1.jar"
+filename = "clientsort-neoforge-3.89.2+1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "cf2373055f55230224ee6606896eb3f90f77680f"
+hash = "5a7308a40e59ea44916a9f680c027303dc5993df"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8669729
+file-id = 8978780
 project-id = 1049891

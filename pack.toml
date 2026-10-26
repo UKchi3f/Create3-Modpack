@@ -1,12 +1,12 @@
 name = "Create 3"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "94ff2ca90bc9231c4216210b7696ec654f593b2a026906441e3f32a594c40cfb"
+hash = "2bb5bdad0a79d3d835a36b1564353df3fff3f007d5aa66ed16535fadd40da620"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.236"
+neoforge = "21.1.250"

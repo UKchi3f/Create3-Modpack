@@ -1,13 +1,13 @@
 name = "All The Heads"
-filename = "AllTheHeads-v21.1.1-mc1.21.1-NeoForge.jar"
+filename = "AllTheHeads-v21.1.2-mc1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9a0cb4333be053ff98f426031f724f159b41a4a9"
+hash = "766efc72a7e814521a3ffe8ea8e3e4ad5411f8e4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8328253
+file-id = 9122656
 project-id = 1369265
